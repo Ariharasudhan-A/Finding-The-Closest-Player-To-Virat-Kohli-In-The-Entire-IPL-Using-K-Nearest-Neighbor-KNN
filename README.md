@@ -222,7 +222,9 @@ The results of the analysis are visualized using:
 </div>
 
 ![image](https://github.com/user-attachments/assets/f04c0dd9-a194-4c82-896d-e329633a850a) ![image](https://github.com/user-attachments/assets/be186ebb-215a-41f8-a5b1-2349e8121fd9)
-![image](https://github.com/user-attachments/assets/19400738-1f5b-4d45-9ccf-468c64e00dcf) ![image](https://github.com/user-attachments/assets/8d89e44c-f368-425e-a2a3-d89942d79654)
+![image](https://github.com/user-attachments/assets/d90c66d0-3b52-47b9-9007-ad47829d5f3b) ![image](https://github.com/user-attachments/assets/456a9af1-2f46-4111-a0db-ab54ff9385c3)
+
+
 
 The project provides a detailed comparison of player similarities. The key findings are presented as plots, with players who exhibit performance patterns similar to **V Kohli** highlighted based on their calculated distances.
 

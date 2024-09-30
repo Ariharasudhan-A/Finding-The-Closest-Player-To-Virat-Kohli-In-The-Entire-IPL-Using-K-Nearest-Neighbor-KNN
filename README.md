@@ -5,7 +5,7 @@
 The objective of this project is to analyze the similarity between cricket players based on their performance in IPL across different game phases. The project utilizes the **K-Nearest Neighbors (KNN)** algorithm with two distance metrics: **Euclidean Distance** and **Cosine Similarity**. The focus is on comparing various players with **V Kohli** to identify the most similar players.
 
 The project involves:
-- Stats extraction from the ball by ball data for openers and one down batters in IPL
+- Stats extraction for every game phase from the ball by ball data for openers and one down batters in IPL
 - Pre-processing the stats data
 - Implementing KNN with Euclidean and Cosine distances for player comparison
 - Visualizing the similarity between players using bar charts and heatmaps
@@ -15,20 +15,7 @@ The project involves:
 The dataset used in this project contains ball by ball data of all IPL matches
 
 ### Data Structure
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+Sample data of players after stats extraction for every game phase from the ball by ball data of all IPL matches
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -165,9 +152,6 @@ The results of the analysis are visualized using:
 ## Results
 
 The project provides a detailed comparison of player similarities. The key findings are presented as plots, with players who exhibit performance patterns similar to **V Kohli** highlighted based on their calculated distances.
-
-- **Euclidean Distance**: Lower values indicate higher similarity.
-- **Cosine Similarity**: Higher values (closer to 1) indicate higher similarity.
 
 ## License
 

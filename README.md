@@ -13,6 +13,7 @@ The project involves:
 ## Data
 
 The dataset used in this project contains ball by ball data of all IPL matches
+Dataset link: https://drive.google.com/drive/folders/12hHtnDi6Py1VMrZnVTMP8dChK0BBnBCX?usp=sharing
 
 ### Data Structure
 Sample data of players after stats extraction for every game phase from the ball by ball data of all IPL matches

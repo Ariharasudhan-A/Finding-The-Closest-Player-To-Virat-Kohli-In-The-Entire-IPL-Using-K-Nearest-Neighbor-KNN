@@ -226,7 +226,7 @@ The results of the analysis are visualized using:
 
 
 
-The project provides a detailed comparison of player similarities. The key findings are presented as plots, with players who exhibit performance patterns similar to **V Kohli** highlighted based on their calculated distances.
+The project provides a detailed comparison of player similarities. The key findings are presented as table, plots, with players who exhibit performance patterns similar to **The G.O.A.T** **V Kohli** highlighted based on their calculated distances.
 
 ## License
 
@@ -235,4 +235,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or contributions, feel free to reach out to:
-- **Your Name** - [Email](mailto:your-email@example.com)
+- **Ariharasudhan A** - [Email](mailto:ariadaikalam1234@gmail.com)

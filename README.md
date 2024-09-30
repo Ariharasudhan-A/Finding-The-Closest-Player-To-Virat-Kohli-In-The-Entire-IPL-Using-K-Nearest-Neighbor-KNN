@@ -150,6 +150,79 @@ The results of the analysis are visualized using:
 - **Heatmaps**: Visualizing the similarity across all players for both distance metrics, making it easy to identify closely related players.
 
 ## Results
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Phase</th>
+      <th>Metric</th>
+      <th>Most Similar Player</th>
+      <th>Distance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Powerplay</td>
+      <td>Euclidean</td>
+      <td>KS Williamson</td>
+      <td>2.720447</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Powerplay</td>
+      <td>Cosine</td>
+      <td>DA Warner</td>
+      <td>0.103638</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Middle Overs</td>
+      <td>Euclidean</td>
+      <td>KS Williamson</td>
+      <td>3.631053</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Middle Overs</td>
+      <td>Cosine</td>
+      <td>DA Warner</td>
+      <td>0.094542</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Death Overs</td>
+      <td>Euclidean</td>
+      <td>KS Williamson</td>
+      <td>1.991914</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Death Overs</td>
+      <td>Cosine</td>
+      <td>RG Sharma</td>
+      <td>0.108374</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Overall</td>
+      <td>Euclidean</td>
+      <td>KS Williamson</td>
+      <td>1.991914</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Overall</td>
+      <td>Cosine</td>
+      <td>DA Warner</td>
+      <td>0.094542</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+![image](https://github.com/user-attachments/assets/f04c0dd9-a194-4c82-896d-e329633a850a) ![image](https://github.com/user-attachments/assets/be186ebb-215a-41f8-a5b1-2349e8121fd9)
+![image](https://github.com/user-attachments/assets/19400738-1f5b-4d45-9ccf-468c64e00dcf) ![image](https://github.com/user-attachments/assets/8d89e44c-f368-425e-a2a3-d89942d79654)
 
 The project provides a detailed comparison of player similarities. The key findings are presented as plots, with players who exhibit performance patterns similar to **V Kohli** highlighted based on their calculated distances.
 

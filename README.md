@@ -1,14 +1,14 @@
-# Player Similarity Analysis Using K-Nearest Neighbors (KNN)
+# Finding The Closest Player To Virat Kohli In The Entire IPL Using K-Nearest Neighbor (KNN)
 
 ## Overview
 
-The objective of this project is to analyze the similarity between cricket players based on their performance in IPL across different game phases. The project utilizes the **K-Nearest Neighbors (KNN)** algorithm with two distance metrics: **Euclidean Distance** and **Cosine Similarity**. The focus is on comparing various players with **V Kohli** to identify the most similar players.
+The objective of this project is to find the closest player to Virat Kohli based on their performance in IPL across different game phases. The project utilizes the **K-Nearest Neighbors (KNN)** algorithm with two distance metrics: **Euclidean Distance** and **Cosine Similarity**.
 
 The project involves:
 - Stats extraction for every game phase from the ball by ball data for openers and one down batters in IPL
 - Pre-processing the stats data
 - Implementing KNN with Euclidean and Cosine distances for player comparison
-- Visualizing the similarity between players using bar charts and heatmaps
+- Visualizing the similarity between Virat and other players using bar charts and heatmaps
 
 ## Data
 

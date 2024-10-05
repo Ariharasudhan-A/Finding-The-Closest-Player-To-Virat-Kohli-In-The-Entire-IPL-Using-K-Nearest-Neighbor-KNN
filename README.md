@@ -5,6 +5,7 @@
 The objective of this project is to find the closest player to Virat Kohli based on their performance in IPL across different game phases. The project utilizes the **K-Nearest Neighbors (KNN)** algorithm with two distance metrics: **Euclidean Distance** and **Cosine Similarity**.
 
 The project involves:
+
 -Data Extraction: Gathered ball-by-ball data in the IPL, covering all matches until 2024.
 
 -Data Preprocessing: Cleaned and preprocessed the stats data for accurate analysis.
